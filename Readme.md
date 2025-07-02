@@ -63,7 +63,7 @@ Check out the [NEWS](NEWS.md) for details on the latest updates.
 
 
 ## Install
-To install the FluvialGeomorph ArcGIS toolbox, click the [latest release](https://github.com/FluvialGeomorph/FluvialGeomorph-toolbox/releases/latest) above, and download the `.zip` archive. Unzip this archive into a working folder and open the FluvialGeomorph ArcGIS toolbox in ArcMap or ArcGIS Pro. `R` must be installed for many of the tools in this toolbox to work. Please see the [NEWS](NEWS.md) for the software compatibility matrix and release notes. See the [User Manual](https://usermanual.fluvialgeomorph.org) for more details on getting started. 
+To install the FluvialGeomorph ArcGIS toolbox, click the [latest release](https://github.com/FluvialGeomorph/FluvialGeomorph-toolbox/releases/latest) above, and download the `.zip` archive. Unzip this archive into a working folder and open the FluvialGeomorph ArcGIS toolbox in ArcMap or ArcGIS Pro. `R` must be installed for many of the tools in this toolbox to work. Please see the [NEWS](NEWS.md) for the software compatibility matrix and release notes. See the [User Manual](https://fluvialgeomorph.github.io/FG-User-Manual/) for more details on getting started. 
 
 
 ## Getting Started
